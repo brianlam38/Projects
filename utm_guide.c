@@ -38,6 +38,4 @@ CAMPAIGN: Why is traffic coming to me?
 
 Example (ProductName): { &utm_source=launch-inkerz }
 Example (Personas): { &utm_source=persona-privatetutor }
-Example (social): { &utm_source=social }
-Example (social): { &utm_source=social }
 
